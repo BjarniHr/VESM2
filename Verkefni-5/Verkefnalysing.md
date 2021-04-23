@@ -4,7 +4,7 @@
 2. Hvenær er heppilegt að nota interrupts. komdu með dæmi?
    1. Svar: Það er sérstaklega gott að nota interrupts þegar maður er með tæki sem á bara að gera eitthvað þegar maður t.d. ýtir á takka því þá geturðu látið tölvuna sofa á meðan þangað til að það er ýtt á takkann og þá vaknar talvan og gerir eitthvað ákveðið.
 3. Hvað eru volatile breytur?
-   1. Það eru breytur sem þú munnt nota inn í interrupts lykkjunum.
+   1. Það eru breytur sem þú munnt nota inn í interrupts lykkjunum og eru gerðar þannig að þær gætu breyst hvenær sem er.
 1. Settu upp verklega kóða sem notar takka og led með notkun interrupts.
 
 **Bjargir:**
