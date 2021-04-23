@@ -1,8 +1,10 @@
 ### 5.1 Interrupts 
 1. Kynntu þér hvernig interrupts virkar og svaraðu eftirfarandi spurningum:
-   1. Hvernig notar þú interrupts?
-   1. Hvenær er heppilegt að nota interrupts. komdu með dæmi?
-   1. Hvað eru volatile breytur?
+   1. Svar: Maður notar interrupts til að láta eitthvað sérstakt gerast þegar maður t.d. ýtir á takka.
+2. Hvenær er heppilegt að nota interrupts. komdu með dæmi?
+   1. Svar: Það er sérstaklega gott að nota interrupts þegar maður er með tæki sem á bara að gera eitthvað þegar maður t.d. ýtir á takka því þá geturðu látið tölvuna sofa á meðan þangað til að það er ýtt á takkann og þá vaknar talvan og gerir eitthvað ákveðið.
+3. Hvað eru volatile breytur?
+   1. Það eru breytur sem þú munnt nota inn í interrupts lykkjunum.
 1. Settu upp verklega kóða sem notar takka og led með notkun interrupts.
 
 **Bjargir:**
