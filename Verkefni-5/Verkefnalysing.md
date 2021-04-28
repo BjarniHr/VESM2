@@ -19,8 +19,11 @@
 Lestu [BASICS OF THE SPI COMMUNICATION PROTOCOL](https://www.circuitbasics.com/basics-of-the-spi-communication-protocol), sjá einnig [myndband um SPI](https://www.youtube.com/watch?v=ldRkXTBw9_o) og svaraðu eftirfarandi spurningum:
    
    1. Hvað er átt við með samstilltum (e. synchronous) samskiptastaðli?
-   1. Útskýrðu master-slave samskipti í SPI útfrá; MISO, MOSI, SCLK og CS/SS.
-   1. Hverjir eru helstu kostir og ókostir við SPI?
+      1. Þegar tvö tæki nota sömu clock signal
+   3. Útskýrðu master-slave samskipti í SPI útfrá; MISO, MOSI, SCLK og CS/SS.
+      1. MISO er master in slave out sem þýðir að slaveinn er að senda information til masterins, MOSI er akkúrat öfugt, SCLK er clock signalið sem er basically hversu hratt upplýsingar ferðast á milli
+   5. Hverjir eru helstu kostir og ókostir við SPI?
+      1. Það góða er að það er hægt að senda upplýsingar á milli slaves og masters á sama tíma og hraðar, stoppar ekki og ekki flókið að velja slave. Það slæma er að það er aldrei víst hvenær það er er búið að senda upplýsingar á milli, leyfir bara einum master, notar fjóra víra og það er ekkert error check.
 
 ---
 
