@@ -4,6 +4,6 @@
 Að fá ultrasonic sensorinn til að virka tók góðan tíma og var ég aðalega að vinna í honum í síðasta tímanum og tók það u.þ.b 3 klst að fá það til að virka. Það byraði á að ég hafði sensor sem var gallaður og virkaði ekki og þegar ég var að testa fleirri þá tengi ég groundið á rangan stað svo ég hélt að það væri eitthvað að kóðanum mínum en fann síðan út úr því á endanum. Á endanum var ég kominn með virkandi sjálfkeyrandi bíl og taldi hann alvega frekar flottann.
 Þegar ég lýtt aftur þá hefði ég viljað að setja alla vírana inn í bílinn í staðinn fyrir að ofan svo hann væri flottari og hlutir myndu ekki detta af þegar hann myndi keyra. Það sem mér fannst og hef alltaf fundist erfiðast er að víra allt saman.
 
-Takk fyrir mig
+Takk fyrir Spönnina ; )
 
 Bjarni Hrafnkelsson
